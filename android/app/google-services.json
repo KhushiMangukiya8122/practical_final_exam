@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832281901721",
+    "project_id": "practical-exam-2974f",
+    "storage_bucket": "practical-exam-2974f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832281901721:android:a95dd36f49c12720029608",
+        "android_client_info": {
+          "package_name": "com.example.practical_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOvVHG_6RWBcCZBAf3u5NiQME4UFMG3Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
